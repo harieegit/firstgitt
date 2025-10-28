@@ -1,1 +1,1 @@
-print("power:",2**2)
+print("power:",2**6)
